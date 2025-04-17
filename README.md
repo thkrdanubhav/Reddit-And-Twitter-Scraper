@@ -3,7 +3,7 @@ This repository contains two Python-based scrapers for collecting and processing
 
 # Social Media Scrapers: Reddit & Twitter (X)
 
-Two lightweight and general-purpose Python scrapers designed to collect textual data from **Reddit** and **Twitter/X**. The scrapers are useful for building datasets for Natural Language Processing (NLP), text classification, sentiment analysis, and more.
+Two lightweight and general-purpose Python scrapers designed to collect textual data from **Reddit** and **Twitter/X**. The scrapers are useful for building datasets for Natural Language Processing (NLP), text classification, sentiment analysis, and more. You can also use Async Praw here , to skip the warning but it does not matter in this case .
 
 ---
 
